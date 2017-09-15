@@ -3,6 +3,7 @@ Vagrantfile for [Phoenix Framework](http://www.phoenixframework.org) (v1.3.0)
 
 Box link: https://app.vagrantup.com/howyi/boxes/phx
 <hr>
+
 ### 1) Setup Vagrant ###
 
 1. Install VirtualBox https://www.virtualbox.org/
@@ -21,6 +22,7 @@ Box link: https://app.vagrantup.com/howyi/boxes/phx
 
 `mix phx.new hello --database mysql`  
 <hr>
+
 ## File access from Samba
 ```
 path: \\192.168.33.117\vagrant

@@ -2,6 +2,10 @@
 Vagrantfile for [Phoenix Framework](http://www.phoenixframework.org) (v1.3.0)
 
 Box link: https://app.vagrantup.com/howyi/boxes/phx
+```bash
+$ vagrant init howyi/phx
+$ vagrant up
+```
 <hr>
 
 ### 1) Setup Vagrant ###
